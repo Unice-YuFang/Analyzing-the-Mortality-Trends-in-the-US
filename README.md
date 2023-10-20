@@ -1,2 +1,4 @@
-# BA780TeamProject
-This is the group project for the Boston University Master of Science in Business Analytics (MSBA) course BA780, Team A05.
+# BA780 Team Project: Analyzing the Mortality Trends in the US
+
+##Contributors: Ali Saadeddine, Jenil Shah, Rishabh Anand, Yu-Fang(Unice) Liao, Shivakumar Vinod, Rishita Chakraborty
+
